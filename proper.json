@@ -1,0 +1,30 @@
+ {
+  "ship": null,
+  "narrator": {
+    "profile": "Neobii"
+  },
+  "comm": {
+    "shellVisible": false,
+    "shipVisible": false,
+    "narratorVisible": false,
+    "pinnedVisible": false,
+    "vibeVisible": false,
+    "rootUrl": "https://shielkwamm.com/",
+  },
+  "vibe": null,
+  "shell": {
+    "rootUrl": "https://sh.shielkwamm.com/"
+  },
+  "meta": {
+    "bgImage": "https://shielkwamm.s3.us-east-2.amazonaws.com/show/bg.png",
+    "description": "Stuck in percent20... again... still...",
+    "ogDescription": "Hello?  I make 10,000 dollars from home a month and you could too!",
+    "ogImage": "https://shielkwamm.s3.us-east-2.amazonaws.com/show/bg.png"
+  },
+  "style": {
+    "backgroundImage": "https://shielkwamm.s3.us-east-2.amazonaws.com/show/Shielkwamm/images/Shielkwamm_atlas_.png"
+  },
+  "hero": {
+    "src": "/actors/Name/Name.js"
+  }
+}
