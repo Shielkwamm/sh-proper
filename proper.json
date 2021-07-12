@@ -1,8 +1,13 @@
  {
+  "name": "Shielkwamm",
+  "slug": "Shielkwamm",
+  "description": "=== shielkwamm ===",
+  "website": "https://github.com/Shielkwamm",
+  "glyphs": ["☷","◯","△","☰"],
   "ship": {
     "src": "https://shielkwamm.com/ship"
   },
-  "narrator": {
+  "owner": {
     "profile": "Neobii"
   },
   "comm": {  
@@ -15,10 +20,18 @@
     "rootUrl": "https://sh.shielkwamm.com/"
   },
   "hero": {
-    "src": "/actors/Name/Name.js"
+    "src": "https://github.com/Shielkwamm/sh-proper/blob/main/actors/Name/Name.js"
   },
   "net": {
     "src": "http://shielkwamm.net/"
   },
-  "wimps": null
+  "wimps": null,
+  "colorScheme": {
+    "1": "#D1215C",
+    "2": "#AE7CBA",
+    "3": "#D7859E",
+    "4": "#7B1068",
+    "background": "#121212",
+    "foreground": "#FFF"
+  }
 }
