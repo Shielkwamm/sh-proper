@@ -34,6 +34,15 @@
       {"name": "vigilance, perseverance and justice", "slug": "usa-blue", "hex": "#bf0a30"},
       {"name": "vigilance, perseverance and justice", "slug": "usa-blue", "hex": "#bf0a30"},
       {"name": "Purity and Innocence", "slug": "usa-blue", "hex": "#002868"}
-    ]
+    ],
+    "fonts": [
+    {
+      "name": "Otomanopee One", 
+      "src": "https://fonts.googleapis.com/css2?family=Otomanopee+One&display=swap"
+    },
+    {
+      "name": "Angkor", 
+      "src": "https://fonts.googleapis.com/css2?family=Angkor&display=swap"
+    }]
   }
 }
