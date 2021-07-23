@@ -26,12 +26,14 @@
     "src": "http://shielkwamm.net/"
   },
   "wimps": null,
-  "colorScheme": {
-    "1": "#D1215C",
-    "2": "#AE7CBA",
-    "3": "#D7859E",
-    "4": "#7B1068",
-    "background": "#121212",
-    "foreground": "#FFF"
+  "style": {
+    "colors": [
+      {"name": "hardiness and valor", "slug": "usa-red", "hex": "#002868"},
+      {"name": "purity and innocence", "slug": "usa-white", "hex": "#f1f1f1"},
+      {"name": "vigilance, perseverance and justice", "slug": "usa-blue", "hex": "#bf0a30"},
+      {"name": "vigilance, perseverance and justice", "slug": "usa-blue", "hex": "#bf0a30"},
+      {"name": "vigilance, perseverance and justice", "slug": "usa-blue", "hex": "#bf0a30"},
+      {"name": "Purity and Innocence", "slug": "usa-blue", "hex": "#002868"}
+    ]
   }
 }
