@@ -8,13 +8,16 @@
     "profile": "Neobii"
   },
   "shell": {
-    "rootUrl": "https://sh.shielkwamm.com/"
-  },
-  "hero": {
-    "src": "https://github.com/Shielkwamm/sh-proper/blob/main/actors/Name/Name.js"
+    "url": "https://sh.shielkwamm.com/"
   },
   "net": {
-    "src": "http://shielkwamm.net/"
+    "url": "http://shielkwamm.net/"
   },
-  "wimps": null
+  "show": {
+    "url": "https://shielkwamm.com/"
+  },
+  "wimps": null,
+  "hero": {
+    "src": "https://github.com/Shielkwamm/sh-proper/blob/main/actors/Name/Name.js"
+  }
 }
