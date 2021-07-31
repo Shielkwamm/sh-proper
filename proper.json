@@ -21,6 +21,8 @@
   },
   "wimps": null,
   "hero": {
-    "src": "https://github.com/Shielkwamm/sh-proper/blob/main/actors/Name/Name.js"
+    "src": "https://raw.githubusercontent.com/Shielkwamm/sh-proper/main/actors/Name/Name.js",
+    "name": "Name",
+    "origin": "staticStatic"
   }
 }

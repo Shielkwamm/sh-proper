@@ -1,6 +1,7 @@
 {
   "hero": {
-    "src": "/actors/Name/Name.js"
+    "name": "Name",
+    "origin": "staticStatic"
   },
   "shellVisible": true,
   "shipVisible": true,
