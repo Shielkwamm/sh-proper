@@ -4,17 +4,8 @@
   "description": "=== shielkwamm ===",
   "website": "https://github.com/Shielkwamm",
   "glyphs": ["☷","◯","△","☰"],
-  "ship": {
-    "src": "https://shielkwamm.com/ship"
-  },
   "owner": {
     "profile": "Neobii"
-  },
-  "comm": {  
-    "rootUrl": "https://shielkwamm.com/comm"
-  },
-  "vibe": {
-    "src": "https://shielkwamm.com/show"
   },
   "shell": {
     "rootUrl": "https://sh.shielkwamm.com/"

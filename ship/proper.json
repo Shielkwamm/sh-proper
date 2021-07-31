@@ -1,4 +1,13 @@
 {
-  "ship": "{--->",
-  "redirectTo": "comm"
+  "redirectTo": "comm",
+  "ship": {
+    "actual": "{--->",
+    "src": "https://shielkwamm.com/ship"
+  },
+  "comm": {  
+    "rootUrl": "https://shielkwamm.com/comm"
+  },
+  "vibe": {
+    "src": "https://shielkwamm.com/show"
+  }
 }
