@@ -16,6 +16,9 @@
   "show": {
     "url": "https://shielkwamm.com/"
   },
+  "ship": {
+    "url": "https://shielkwamm.com/ship"
+  },
   "wimps": null,
   "hero": {
     "src": "https://github.com/Shielkwamm/sh-proper/blob/main/actors/Name/Name.js"
