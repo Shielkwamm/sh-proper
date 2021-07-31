@@ -1,10 +1,4 @@
 {
-  "shellVisible": true,
-  "shipVisible": true,
-  "narratorVisible": true,
-  "heroVisible": true,
-  "vibeVisible": true,
-  "redirectTo": "comm",
   "meta": {
     "bgImage": "https://shielkwamm.s3.us-east-2.amazonaws.com/show/bg.png",
     "description": "Stuck in percent20... again... still...",
@@ -13,5 +7,9 @@
   },
   "style": {
     "backgroundImage": "https://shielkwamm.s3.us-east-2.amazonaws.com/show/Shielkwamm/images/Shielkwamm_atlas_.png"
+  },
+  "randomGlyphs0": {
+    "glyphSet": ["ⓚ", "⬛", "ℙ", "⬜", "ʎ", "▲", "⚪", "⋗", "Ḵ", "℟"],
+    "colors": ["white", "black"],
   }
 }
