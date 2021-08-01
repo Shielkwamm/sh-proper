@@ -21,8 +21,9 @@
   },
   "wimps": null,
   "hero": {
-    "src": "https://raw.githubusercontent.com/Shielkwamm/sh-proper/main/actors/Name/Name.js",
-    "name": "Name",
-    "origin": "staticStatic"
+    "src": "https://learneverything.github.io/le-actors/actors/Scoup/Scoup.js",
+    "name": "Scoup",
+    "origin": "LearnEverything",
+    "otherNote": "should be called avatar some places"
   }
 }
