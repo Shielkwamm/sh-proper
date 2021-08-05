@@ -16,8 +16,15 @@
   "show": {
     "url": "https://shielkwamm.com/"
   },
-  "ship": {
-    "url": "https://shielkwamm.com/ship"
+  "organization": {
+    "rename": "ship",
+    "overview": "https://shielkwamm.com/ship",
+    "team": {
+      "isGood": "yes?"
+    }
+  },
+  "rooms": {
+    "overview": "http://sh.shielkwamm.com/rooms"
   },
   "wimps": null,
   "hero": {
