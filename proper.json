@@ -17,7 +17,7 @@
     "url": "https://shielkwamm.com/"
   },
   "organization": {
-    "rename": "ship",
+    "label": "ship",
     "overview": "https://shielkwamm.com/ship",
     "team": {
       "isGood": "yes?"
