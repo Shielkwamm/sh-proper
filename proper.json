@@ -19,14 +19,14 @@
   "organization": {
     "label": "ship",
     "overview": "https://shielkwamm.com/ship",
-    "team": {
-      "label": "deck",
+    "teams": {
+      "label": "decks",
       "isGood": "yes?"
     }
   },
-  "zone": {
-    "label": "server",
-    "room": {
+  "zones": {
+    "label": "servers",
+    "rooms": {
       "overview": "http://sh.shielkwamm.com/rooms"
     }
   },
