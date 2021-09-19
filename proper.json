@@ -20,6 +20,7 @@
     "label": "ship",
     "overview": "https://shielkwamm.com/ship",
     "team": {
+      "label": "deck",
       "isGood": "yes?"
     }
   },
