@@ -24,8 +24,11 @@
       "isGood": "yes?"
     }
   },
-  "rooms": {
-    "overview": "http://sh.shielkwamm.com/rooms"
+  "zone": {
+    "label": "server",
+    "room": {
+      "overview": "http://sh.shielkwamm.com/rooms"
+    }
   },
   "wimps": null,
   "hero": {
